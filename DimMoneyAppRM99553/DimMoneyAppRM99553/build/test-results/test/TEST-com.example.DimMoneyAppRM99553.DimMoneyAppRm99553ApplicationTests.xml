@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.DimMoneyAppRM99553.DimMoneyAppRm99553ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-25T23:40:05" hostname="DESKTOP-E2NO6JU" time="0.988">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.DimMoneyAppRM99553.DimMoneyAppRm99553ApplicationTests" time="0.988"/>
+  <system-out><![CDATA[20:40:03.040 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.DimMoneyAppRM99553.DimMoneyAppRm99553ApplicationTests]: DimMoneyAppRm99553ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:40:03.172 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.DimMoneyAppRM99553.DimMoneyAppRm99553Application for test class com.example.DimMoneyAppRM99553.DimMoneyAppRm99553ApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.5)
+
+2024-04-25T20:40:03.723-03:00  INFO 3144 --- [DimMoneyAppRM99553] [    Test worker] c.e.D.DimMoneyAppRm99553ApplicationTests : Starting DimMoneyAppRm99553ApplicationTests using Java 21.0.3 with PID 3144 (started by Caio in D:\VSCODE Projetos\Proj1\DimMoneyAppRM99553\DimMoneyAppRM99553)
+2024-04-25T20:40:03.726-03:00  INFO 3144 --- [DimMoneyAppRM99553] [    Test worker] c.e.D.DimMoneyAppRm99553ApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2024-04-25T20:40:05.362-03:00  INFO 3144 --- [DimMoneyAppRM99553] [    Test worker] c.e.D.DimMoneyAppRm99553ApplicationTests : Started DimMoneyAppRm99553ApplicationTests in 1.944 seconds (process running for 3.546)
+]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (C:\Users\Caio\.gradle\caches\modules-2\files-2.1\net.bytebuddy\byte-buddy-agent\1.14.13\979ce25f7d3096a2e82214ba7dc972a05ce7a171\byte-buddy-agent-1.14.13.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>
